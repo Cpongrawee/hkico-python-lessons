@@ -1,0 +1,9 @@
+# Official mock papers belong to Algorithmics / HKICO — do not publish
+mock test/
+*.pdf
+
+# Colab / Python leftovers
+greet.py
+__pycache__/
+.ipynb_checkpoints/
+desktop.ini
