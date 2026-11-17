@@ -13,9 +13,9 @@ A single exam question within a Mock Paper; some are grouped into one section wh
 _Avoid_: problem, item
 
 **เฉลย** (Answer section):
-The part of each ข้อ that students must not open until the teacher says so; it holds the answer, explanation and review links.
+The part of each ข้อ that students must not open until the teacher says so; it holds the answer and why each option is right or wrong. It comes straight after the student's own answer, before the concept is taught.
 _Avoid_: solution, key
 
 **อ่านเพิ่ม** (Further reading):
-A link inside a ข้อ's เฉลย to the specific chapter or section of a free, English-language reference that explains the concept tested, with a short Thai note on what to read.
+The last part of a ข้อ, after the experiments: one or two links to the specific chapter or section of a free, English-language reference that explains the concept tested, each with a short Thai note on what to read.
 _Avoid_: reference, resource link
