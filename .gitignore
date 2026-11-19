@@ -1,5 +1,5 @@
 # Official mock papers belong to Algorithmics / HKICO — do not publish
-mock test/
+mock-papers/
 *.pdf
 
 # Colab / Python leftovers
